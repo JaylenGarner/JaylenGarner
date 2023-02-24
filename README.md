@@ -5,7 +5,7 @@ Full Stack Software Engineer
 ----------------------------
 
 * 🌍  I'm based in Norwich, CT
-* 🖥️  See my portfolio at [MyPortfolio]()
+* 🖥️  See my portfolio [here](jaylengarner.com)
 * ✉️  You can contact me at [jaylen.garner@outlook.com](mailto:jaylen.garner@outlook.com)
 
 ### Skills
