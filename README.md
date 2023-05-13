@@ -1,5 +1,5 @@
 # 💫 About Me:
-📍 I'm based in Norwich, CT<br>💻 See my portfolio here<br>✉️ You can contact me at jaylen@moonraydevelopment.com
+📍 &nbsp;  I'm based in Norwich, CT<br><br>  💻 &nbsp; Check out my _[portfolio](https://jaylengarner.com)_<br><br>🌙 &nbsp;  Owner of _[MoonRay Development](https://moonraydevelopment.com)_<br><br>✉️ &nbsp;  You can contact me at  _jaylen@moonraydevelopment.com_
 
 
 ## 🌐 Socials:
